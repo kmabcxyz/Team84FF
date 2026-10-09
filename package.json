@@ -1,0 +1,9 @@
+{
+  "name": "team-84-ff",
+  "version": "1.0.0",
+  "description": "TEAM 84 FF — Free Fire top-up store (zero-dependency Node backend + frontend)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch --no-warnings server.js --dev", "test": "node --test --no-warnings test.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "UNLICENSED"
+}
